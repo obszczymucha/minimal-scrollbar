@@ -8,6 +8,9 @@
 			"matches": [
 				"<all_urls>"
 			],
+			"exclude_matches": [
+				"https://email.local/*"
+			],
 			"css": [
 				"scroll.css"
 			]
